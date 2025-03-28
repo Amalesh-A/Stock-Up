@@ -1,3 +1,5 @@
+Stock Up!
+
 Phase I: Initiation
 
 Landing Page + User Authentication (React + MySQL via Spring Boot)
