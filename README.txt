@@ -45,4 +45,4 @@ Frontend (React + Tailwind)
 
 Outcome: A clean, working boilerplate on both ends. GitHub repo is set. CI setup (optional).
 
-![Image](https://github.com/user-attachments/assets/5c0d8b7f-3ad6-4a5b-a1e4-76d458fbe25d)
+![Architecture Diagram](./assets/Initial%20Plan.png)
