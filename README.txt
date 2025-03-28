@@ -45,4 +45,4 @@ Frontend (React + Tailwind)
 
 Outcome: A clean, working boilerplate on both ends. GitHub repo is set. CI setup (optional).
 
-![Boilerplate Architecture Diagram](./assets/Initial%20Plan.png)
+Images are in the assets folder
