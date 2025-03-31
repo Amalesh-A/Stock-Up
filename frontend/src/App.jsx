@@ -2,7 +2,7 @@
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import LoginPage from "./pages/LoginPage";
 import RegisterPage from "./pages/RegisterPage";
-import { AuthProvider, useAuth } from "src/context/AuthContext";
+import { AuthProvider, useAuth } from "./context/Authcontext";
 
 function ProtectedRoute({ children }) {
   const { user } = useAuth();
